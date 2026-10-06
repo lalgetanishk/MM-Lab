@@ -1,0 +1,27 @@
+==========================================
+VIDEO METADATA REPORT
+==========================================
+File Name       : input_video.mp4
+File Size       : 795.27 KB
+Container       : QuickTime / MOV
+Duration        : 3.911167 seconds
+
+VIDEO
+------------------------------------------
+Resolution      : 478 x 850
+Frame Rate      : 702000/23467
+Bit Rate        : 1407281
+Codec           : H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+
+AUDIO
+------------------------------------------
+Codec           : AAC (Advanced Audio Coding)
+Channels        : 2
+Sampling Rate   : 48000 Hz
+Bit Rate        : 256127
+
+METADATA
+------------------------------------------
+major_brand     : mp42
+minor_version   : 0
+compatible_brands: mp42isom
