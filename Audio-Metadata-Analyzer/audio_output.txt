@@ -1,0 +1,22 @@
+==========================================
+AUDIO METADATA REPORT
+==========================================
+File Name       : input_audio.mp3
+File Size       : 152.79 KB
+Container       : MP2/3 (MPEG audio layer 2/3)
+Duration        : 9.705941 seconds
+
+AUDIO
+------------------------------------------
+Codec           : MP3 (MPEG audio layer 3)
+Channels        : 2
+Channel Layout  : stereo
+Sampling Rate   : 44100 Hz
+Bit Rate        : 128000
+
+METADATA
+------------------------------------------
+major_brand     : mp42
+minor_version   : 0
+compatible_brands: mp42isom
+encoder         : Lavf61.7.103
