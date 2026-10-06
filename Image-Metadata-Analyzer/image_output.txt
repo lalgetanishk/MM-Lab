@@ -1,0 +1,14 @@
+========================================
+IMAGE METADATA REPORT
+========================================
+File Name       : input_image.jpg
+File Size       : 222.65 KB
+File Format     : JPEG
+Width           : 989 pixels
+Height          : 1600 pixels
+Resolution      : Not Available
+Color Mode      : RGB
+
+EXIF Metadata
+----------------------------------------
+No EXIF metadata found.
